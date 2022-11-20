@@ -11,6 +11,7 @@
 	<groupId>pe.edu.upc</groupId>
 	<artifactId>EncuentraloFacil</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>EncuentraloFacil</name>
 	<description>Backend de Encuentralo Facil</description>
 	<properties>
